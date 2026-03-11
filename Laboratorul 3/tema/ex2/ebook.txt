@@ -1,0 +1,10 @@
+Autorul
+
+1
+
+Acesta   este   un    text.
+
+
+2
+
+Alt     paragraf cu diacritice vechi: ţ şi ş
