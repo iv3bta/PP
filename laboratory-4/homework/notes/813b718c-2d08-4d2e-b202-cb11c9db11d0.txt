@@ -1,0 +1,6 @@
+title=homework
+author=Ivebta
+email=rares.iventa@gmail.com
+date=2026-03-18
+time=19:27:23
+content=ex2
